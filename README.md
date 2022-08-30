@@ -6,16 +6,16 @@ __________________________________________________________________
 I N T E G R A N T E S :
 __________________________________________________________________
 
-✰ Karen Jazmin García Rodríguez       →  Biología
+✰ Karen Jazmin García Rodríguez     →  Especialidad : Biología
 
-✰ Emili Elisa Gonzalez Gómez          →  Biología
+✰ Emili Elisa Gonzalez Gómez        →  Especialidad : Biología
 
-✰ Karla Daniela Mota Salguero         →  Diseño              
+✰ Karla Daniela Mota Salguero       →  Especialidad : Diseño              
 
-✰ Stephanie Alondra Herrera Juárez    →  Diseño
+✰ Stephanie Alondra Herrera Juárez  →  Especialidad : Diseño
 
-✰ Yasmín del Pilar Antonio Pérez      →  Computación
+✰ Yasmín del Pilar Antonio Pérez    →  Especialidad : Computación
 
-✰ Karen Sophia Valdés Leonardo        →  Computación
+✰ Karen Sophia Valdés Leonardo      →  Especialidad : Computación
 
 ___________________________________________________________________
